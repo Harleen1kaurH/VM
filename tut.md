@@ -6,6 +6,6 @@
 
 # Creating VIRTUAL MACHINE
 1. Click on New
-2. Give name for VM and proceed
+2. Provide link to dowloaded ubuntu file in ISO image section
 3. Give base memory and processor size ( take it to maximum limit of green line)
 4. Click on next and VM is generated
